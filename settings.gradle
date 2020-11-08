@@ -1,0 +1,2 @@
+rootProject.name='ActivityLifecyle'
+include ':app'
